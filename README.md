@@ -1,4 +1,4 @@
-#  MEF SDCP VILT MDT 2020-APR-20 to 22
+#  MEF SDCP VILT 2020-MAY-04 to 07 CDT
 
 ## [MEF SDCP Introduction - Nicholas Riegel](https://docs.google.com/presentation/d/1dDd9z5g9wYJKA0nkQ3nePmTewDzV1EeT4feaJpl1iT0/edit?usp=sharing)
 
