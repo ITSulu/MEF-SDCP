@@ -6,6 +6,6 @@
 
 ## [MEF SDCP Helpful Links (Google Doc)](https://docs.google.com/document/d/1CEhzOy3CoO7A5GLpZ-TgOyks7mE6EZ4iq-6ft3hRnw0/edit?usp=sharing)
 
-<!--## [Mid Course Feedback MEF SDCP2024-09-30 to 10-4 SDCP B VILT MDT](https://forms.gle/CV5H49oZ9mvmEVim8)
+## [Mid Course Feedback MEF SDCP SDCP 2024-OCT-28 to NOV-1 SDCP B VILT MDT - Comcast](https://forms.gle/Kp4tZ97UvZp5cFto9) 
 
- Comment -->
+<!-- Comment  -->
